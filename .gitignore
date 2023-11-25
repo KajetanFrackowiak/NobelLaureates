@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Nobel Laureates/*
+!/Nobel Laureates/task/
+/Nobel Laureates/task/*
+!/Nobel Laureates/task/main.py
